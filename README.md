@@ -2,7 +2,7 @@
 
 ### 项目演示
 
-[demo 地址](http://121.196.176.78/)（请用 chrome/firefox 手机模式预览，不能滑动请刷新）
+[demo 地址](http://39.106.80.100/)（请用 chrome/firefox浏览器手机模式预览，不能滑动请刷新）
 
 ### 如何运行
 请先前往 [NeteaseCloudMusicApi](https://binaryify.github.io/NeteaseCloudMusicApi/#/) 获取后端代码并运行
